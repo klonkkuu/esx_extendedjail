@@ -31,4 +31,4 @@ Permissions
 - If you use this script, you need to mention me!
 ```
 
-+ OWNER: TehRamsus 
+**• Owner: TehRamsus**
