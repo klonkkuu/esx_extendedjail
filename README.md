@@ -22,3 +22,9 @@ Requirements
 
     es_extended (version 1.2) or latest extendedmode.
     MHacking (optional) https://github.com/GHMatti/FiveM-Scripts/tree/master/mhacking
+
+
+Permissions
+    You don't have permissions to edit code. only locales & configs. 
+    You don't have permissions to release script again, or leak it.
+    If you use this script, you need to mention me!
