@@ -9,6 +9,7 @@ server_scripts {
 	'@RM_Framework/locale.lua',
 	'locales/fi.lua',
 	'locales/en.lua',
+	'locales/swe.lua',
 	'config.lua',
 	'server/main.lua'
 }
