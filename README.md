@@ -30,3 +30,5 @@ Permissions
 - You don't have permissions to release script again, or leak it. 
 - If you use this script, you need to mention me!
 ```
+
++ OWNER: TehRamsus 
