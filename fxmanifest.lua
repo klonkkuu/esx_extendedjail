@@ -17,8 +17,8 @@ server_scripts {
 client_scripts {
 	'@RM_Framework/locale.lua',
 	'locales/fi.lua',
+	'locales/swe.lua',
 	'locales/en.lua',
 	'config.lua',
-	'locales/swe.lua',
 	'client/main.lua'
 }
